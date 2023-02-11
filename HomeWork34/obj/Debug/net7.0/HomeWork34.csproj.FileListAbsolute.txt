@@ -1,0 +1,15 @@
+C:\Users\Alevtina\Desktop\ОБУЧЕНИЕ\Practic\HomeWork3\HomeWork3\HomeWork34\obj\Debug\net7.0\HomeWork34.csproj.AssemblyReference.cache
+C:\Users\Alevtina\Desktop\ОБУЧЕНИЕ\Practic\HomeWork3\HomeWork3\HomeWork34\obj\Debug\net7.0\HomeWork34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alevtina\Desktop\ОБУЧЕНИЕ\Practic\HomeWork3\HomeWork3\HomeWork34\obj\Debug\net7.0\HomeWork34.AssemblyInfoInputs.cache
+C:\Users\Alevtina\Desktop\ОБУЧЕНИЕ\Practic\HomeWork3\HomeWork3\HomeWork34\obj\Debug\net7.0\HomeWork34.AssemblyInfo.cs
+C:\Users\Alevtina\Desktop\ОБУЧЕНИЕ\Practic\HomeWork3\HomeWork3\HomeWork34\obj\Debug\net7.0\HomeWork34.csproj.CoreCompileInputs.cache
+C:\Users\Alevtina\Desktop\ОБУЧЕНИЕ\Practic\HomeWork3\HomeWork3\HomeWork34\bin\Debug\net7.0\HomeWork34.exe
+C:\Users\Alevtina\Desktop\ОБУЧЕНИЕ\Practic\HomeWork3\HomeWork3\HomeWork34\bin\Debug\net7.0\HomeWork34.deps.json
+C:\Users\Alevtina\Desktop\ОБУЧЕНИЕ\Practic\HomeWork3\HomeWork3\HomeWork34\bin\Debug\net7.0\HomeWork34.runtimeconfig.json
+C:\Users\Alevtina\Desktop\ОБУЧЕНИЕ\Practic\HomeWork3\HomeWork3\HomeWork34\bin\Debug\net7.0\HomeWork34.dll
+C:\Users\Alevtina\Desktop\ОБУЧЕНИЕ\Practic\HomeWork3\HomeWork3\HomeWork34\bin\Debug\net7.0\HomeWork34.pdb
+C:\Users\Alevtina\Desktop\ОБУЧЕНИЕ\Practic\HomeWork3\HomeWork3\HomeWork34\obj\Debug\net7.0\HomeWork34.dll
+C:\Users\Alevtina\Desktop\ОБУЧЕНИЕ\Practic\HomeWork3\HomeWork3\HomeWork34\obj\Debug\net7.0\refint\HomeWork34.dll
+C:\Users\Alevtina\Desktop\ОБУЧЕНИЕ\Practic\HomeWork3\HomeWork3\HomeWork34\obj\Debug\net7.0\HomeWork34.pdb
+C:\Users\Alevtina\Desktop\ОБУЧЕНИЕ\Practic\HomeWork3\HomeWork3\HomeWork34\obj\Debug\net7.0\HomeWork34.genruntimeconfig.cache
+C:\Users\Alevtina\Desktop\ОБУЧЕНИЕ\Practic\HomeWork3\HomeWork3\HomeWork34\obj\Debug\net7.0\ref\HomeWork34.dll
